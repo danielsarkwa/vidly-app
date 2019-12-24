@@ -4,7 +4,7 @@
   "description": "store app project",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "engines": {
     "node": "12.13.1"
